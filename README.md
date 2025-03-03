@@ -38,7 +38,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ft-prince/socially.git
+   git clone https://github.com/ft-prince/A-Social-Media-Application.git
    cd socially
    ```
 
